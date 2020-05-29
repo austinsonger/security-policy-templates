@@ -18,12 +18,12 @@
         },
         {
           "ref": "AC.1.003",
-          "title": "Limit data access to authorized users and processes",
+          "title": "Limit data access to authorized users and processes | (1)",
           "summary": "Verify and control/limit connections to and use of external information systems."
         },
         {
           "ref": "AC.1.004",
-          "title": "Limit data access to authorized users and processes",
+          "title": "Limit data access to authorized users and processes | (2)",
           "summary": "Control information posted or processed on publicly accessible information systems."
         }
       ]
@@ -79,7 +79,7 @@
         ]
       },
       {
-        "title": "System & Communications Protection (SC)",
+        "title": "SYSTEM & COMMUNICATIONS PROTECTION (SC)",
         "controls": [
           {
             "ref": "SC.1.175",
@@ -94,7 +94,7 @@
         ]
       },
     {
-      "title": "System & Information Integrity (SI)",
+      "title": "SYSTEM & INFORMATION INTEGRITY (SI)",
       "controls": [
         {
           "ref": "SI.1.210",
