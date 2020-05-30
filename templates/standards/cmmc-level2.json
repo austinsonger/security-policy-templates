@@ -442,7 +442,7 @@
             "Capacity": "Define security requirements for systems\r\nand communications",
             "Capacity ID": "C038",
             "Practice Number": "SC.2.179",
-            "Practice": "Use encrypted sessions for the management of network devices.",
+            "Practice": "Use encrypted sessions for the management of network devices."
             "CIS v7.1": "11.5"
         },
         {
@@ -450,7 +450,7 @@
             "Capacity": "Control communications at system\r\nboundaries",
             "Capacity ID": "C039",
             "Practice Number": "SC.1.175",
-            "Practice": "Monitor, control and protect organizational communications (e.g., information transmitted or received by organizational information systems) at the external boundaries and key internal boundaries of the information systems.",
+            "Practice": "Monitor, control and protect organizational communications (e.g., information transmitted or received by organizational information systems) at the external boundaries and key internal boundaries of the information systems."
 
         },
         {
@@ -458,7 +458,7 @@
             "Capacity": "Control communications at system\r\nboundaries",
             "Capacity ID": "C039",
             "Practice Number": "SC.1.176",
-            "Practice": "Implement subnetworks for publicly accessible system components that are physically or logically separated from internal networks.",
+            "Practice": "Implement subnetworks for publicly accessible system components that are physically or logically separated from internal networks."
 
         },
         {
@@ -466,7 +466,7 @@
             "Capacity": "Identify and manage information system\r\nflaws",
             "Capacity ID": "C040",
             "Practice Number": "SI.1.210",
-            "Practice": "Identify, report and correct information and information system flaws in a timely manner.",
+            "Practice": "Identify, report and correct information and information system flaws in a timely manner."
 
         },
         {
@@ -474,7 +474,7 @@
             "Capacity": "Identify and manage information system\r\nflaws",
             "Capacity ID": "C040",
             "Practice Number": "SI.2.214",
-            "Practice": "Monitor system security alerts and advisories and take action in response.",
+            "Practice": "Monitor system security alerts and advisories and take action in response."
 
         },
         {
@@ -482,7 +482,7 @@
             "Capacity": "Identify malicious content",
             "Capacity ID": "C041",
             "Practice Number": "SI.1.211",
-            "Practice": "Provide protection from malicious code at appropriate locations within organizational information systems.",
+            "Practice": "Provide protection from malicious code at appropriate locations within organizational information systems."
 
         },
         {
@@ -490,16 +490,16 @@
             "Capacity": "Identify malicious content",
             "Capacity ID": "C041",
             "Practice Number": "SI.1.212",
-            "Practice": "Update malicious code protection mechanisms when new releases are available.",
+            "Practice": "Update malicious code protection mechanisms when new releases are available."
 
         }, 
-        
+
         {
             "Domain": "System & Information Integrity (SI)",
             "Capacity": "Identify malicious content",
             "Capacity ID": "C041",
             "Practice Number": "SI.1.213",
-            "Practice": "Perform periodic scans of the information system and real-time scans of files from external sources as files are downloaded, opened or executed.",
+            "Practice": "Perform periodic scans of the information system and real-time scans of files from external sources as files are downloaded, opened or executed."
 
         },
         {
@@ -507,14 +507,14 @@
             "Capacity": "Perform network and system monitoring",
             "Capacity ID": "C042",
             "Practice Number": "SI.2.216",
-            "Practice": "Monitor organizational systems, including inbound and outbound communications traffic, to detect attacks and indicators of potential attacks.",
+            "Practice": "Monitor organizational systems, including inbound and outbound communications traffic, to detect attacks and indicators of potential attacks."
         },
         {
             "Domain": "System & Information Integrity (SI)",
             "Capacity": "Perform network and system monitoring",
             "Capacity ID": "C042",
             "Practice Number": "SI.2.217",
-            "Practice": "Identify unauthorized use of organizational systems.",
+            "Practice": "Identify unauthorized use of organizational systems."
         }
     ]
 }
