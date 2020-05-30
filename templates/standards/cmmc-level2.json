@@ -1,4 +1,3 @@
-
 {
     "Level 2": [
         {
@@ -183,9 +182,6 @@
             "Capacity ID": "C014",
             "Practice Number": "CM.2.066",
             "Practice": "Analyze the security impact of changes prior to implementation.",
-            "NIST\r\n800-171": "3.4.4",
-            "NIST\r\n800-53": "CM-4",
-            "ISO\r\n27002": "14.2.3"
         },
         {
             "Domain": "Identification & Authentication (IA)",
@@ -193,13 +189,6 @@
             "Capacity ID": "C015",
             "Practice Number": "IA.1.076",
             "Practice": "Identify information system users, processes acting on behalf of users or devices.",
-            "FAR\r\n52.204-21": "(b)(1)(v)",
-            "NIST\r\n800-171": "3.5.1",
-            "NIST\r\n800-53": "IA-2\r\nIA-3\r\nIA-5",
-            "CERT\r\nRMM": "ID:SG1.SP1",
-            "ISO\r\n27002": "9.2.1\r\n9.2.4\r\n9.3.1\r\n9.4.3",
-            "NIST\r\nCSF": "PR.AC-1\r\nPR.AC-6\r\nPR.AC-7",
-            "CIS v7.1": "4.2\r\n4.3\r\n16.8\r\n16.9"
         },
         {
             "Domain": "Identification & Authentication (IA)",
@@ -207,13 +196,6 @@
             "Capacity ID": "C015",
             "Practice Number": "IA.1.077",
             "Practice": "Authenticate (or verify) the identities of those users, processes or devices, as a prerequisite to allowing access to organizational information systems.",
-            "FAR\r\n52.204-21": "(b)(1)(vi)",
-            "NIST\r\n800-171": "3.5.2",
-            "NIST\r\n800-53": "IA-2\r\nIA-3\r\nIA-5",
-            "CERT\r\nRMM": "TM:SG4.SP1",
-            "ISO\r\n27002": "9.2.1\r\n9.2.4\r\n9.3.1\r\n9.4.3",
-            "NIST\r\nCSF": "PR.AC-1\r\nPR.AC-6\r\nPR.AC-7",
-            "CIS v7.1": "4.2\r\n4.3\r\n16.8\r\n16.9"
         },
         {
             "Domain": "Identification & Authentication (IA)",
@@ -221,86 +203,55 @@
             "Capacity ID": "C015",
             "Practice Number": "IA.2.078",
             "Practice": "Enforce a minimum password complexity and change of characters when new passwords are created.",
-            "NIST\r\n800-171": "3.5.7",
-            "NIST\r\n800-53": "IA-5(1)",
-            "NIST\r\nCSF": "PR.AC-1\r\nPR.AC-6\r\nPR.AC-7",
-            "CIS v7.1": "4.2\r\n4.4"
         },
         {
             "Domain": "Identification & Authentication (IA)",
             "Capacity": "Grant access to authenticated entities",
             "Capacity ID": "C015",
             "Practice Number": "IA.2.079",
-            "Practice": "Prohibit password reuse for a specified number of generations.",
-            "NIST\r\n800-171": "3.5.8",
-            "NIST\r\n800-53": "IA-5(1)",
-            "NIST\r\nCSF": "PR.AC-1\r\nPR.AC-6\r\nPR.AC-7",
-            "CIS v7.1": "4.2\r\n4.4"
+            "Practice": "Prohibit password reuse for a specified number of generations."
         },
         {
             "Domain": "Identification & Authentication (IA)",
             "Capacity": "Grant access to authenticated entities",
             "Capacity ID": "C015",
             "Practice Number": "IA.2.080",
-            "Practice": "Allow temporary password use for system logons with an immediate change to a permanent password.",
-            "NIST\r\n800-171": "3.5.9",
-            "NIST\r\n800-53": "IA-5(1)",
-            "NIST\r\nCSF": "PR.AC-1\r\nPR.AC-6\r\nPR.AC-7"
+            "Practice": "Allow temporary password use for system logons with an immediate change to a permanent password."
         },
         {
             "Domain": "Identification & Authentication (IA)",
             "Capacity": "Grant access to authenticated entities",
             "Capacity ID": "C015",
             "Practice Number": "IA.2.081",
-            "Practice": "Store and transmit only cryptographically- protected passwords.",
-            "NIST\r\n800-171": "3.5.10",
-            "NIST\r\n800-53": "IA-5(1)",
-            "CERT\r\nRMM": "KIM:SG4.SP1",
-            "NIST\r\nCSF": "PR.AC-1\r\nPR.AC-6\r\nPR.AC-7",
-            "CIS v7.1": "16.4\r\n16.5"
+            "Practice": "Store and transmit only cryptographically- protected passwords."
         },
         {
             "Domain": "Identification & Authentication (IA)",
             "Capacity": "Grant access to authenticated entities",
             "Capacity ID": "C015",
             "Practice Number": "IA.2.082",
-            "Practice": "Obscure feedback of authentication information.",
-            "NIST\r\n800-171": "3.5.11",
-            "NIST\r\n800-53": "IA-6",
-            "ISO\r\n27002": "9.4.2",
-            "NIST\r\nCSF": "PR.AC-1"
+            "Practice": "Obscure feedback of authentication information."
         },
         {
             "Domain": "Incident Response (IR)",
             "Capacity": "Plan incident response",
             "Capacity ID": "C016",
             "Practice Number": "IR.2.092",
-            "Practice": "Establish an operational incident-handling capability for organizational systems that includes preparation, detection, analysis, containment, recovery and user response activities.",
-            "NIST\r\n800-171": "3.6.1",
-            "NIST\r\n800-53": "IR-2\r\nIR-4\r\nIR-5\r\nIR-6\r\nIR-7",
-            "CERT\r\nRMM": "IMC:SG1.SP1",
-            "ISO\r\n27002": "6.1.3\r\n7.2.2\r\n16.1.2\r\n16.1.4\r\n16.1.5\r\n16.1.6",
-            "NIST\r\nCSF": "RS.RP-1"
+            "Practice": "Establish an operational incident-handling capability for organizational systems that includes preparation, detection, analysis, containment, recovery and user response activities."
         },
         {
             "Domain": "Incident Response (IR)",
             "Capacity": "Detect and Report Events",
             "Capacity ID": "C017",
             "Practice Number": "IR.2.093",
-            "Practice": "Detect and report events.",
-            "NIST\r\n800-53": "AR-4\r\nAU-13\r\nIA-10\r\nIR-4\r\nIR-5\r\nIR-6\r\nPE-6\r\nRA-6",
-            "CERT\r\nRMM": "IMC:SG2.SP1",
-            "NIST\r\nCSF": "DE.CM-1\r\nDE.CM- 2\r\nDE.CM-3\r\nRS.CO-2",
-            "CIS v7.1": "19.4"
+            "Practice": "Detect and report events."
         },
         {
             "Domain": "Incident Response (IR)",
             "Capacity": "Detect and Report Events",
             "Capacity ID": "C017",
             "Practice Number": "IR.2.094",
-            "Practice": "Analyze and triage events to support event resolution and incident declaration.",
-            "NIST\r\n800-53": "IR-4(3)",
-            "CERT\r\nRMM": "IMC:SG2.SP4"
+            "Practice": "Analyze and triage events to support event resolution and incident declaration."
         },
         {
             "Domain": "Incident Response (IR)",
@@ -308,10 +259,6 @@
             "Capacity ID": "C018",
             "Practice Number": "IR.2.095",
             "Practice": "Develop and implement responses to declared incidents according to pre- defined procedures.",
-            "NIST\r\n800-53": "IR-4\r\nIR-9\r\nSE-2",
-            "CERT\r\nRMM": "IMC:SG4.SP2",
-            "NIST\r\nCSF": "RS.RP-1",
-            "CIS v7.1": "19.1"
         },
         {
             "Domain": "Incident Response (IR)",
@@ -319,9 +266,6 @@
             "Capacity ID": "C019",
             "Practice Number": "IR.2.097",
             "Practice": "Perform root cause analysis on incidents to determine underlying causes.",
-            "NIST\r\n800-53": "AU-2\r\nIR-4",
-            "CERT\r\nRMM": "IMC:SG5.SP1",
-            "NIST\r\nCSF": "DE.AE-2"
         },
         {
             "Domain": "Maintenance (MA)",
@@ -329,11 +273,6 @@
             "Capacity ID": "C021",
             "Practice Number": "MA.2.111",
             "Practice": "Perform maintenance on organizational systems.",
-            "NIST\r\n800-171": "3.7.1",
-            "NIST\r\n800-53": "MA-2\r\nMA-3\r\nMA-3(1)\r\nMA-3(2)",
-            "CERT\r\nRMM": "TM:SG5.SP2",
-            "ISO\r\n27002": "11.2.4\r\n11.2.5",
-            "NIST\r\nCSF": "PR.MA-1"
         },
         {
             "Domain": "Maintenance (MA)",
@@ -341,11 +280,6 @@
             "Capacity ID": "C021",
             "Practice Number": "MA.2.112",
             "Practice": "Provide controls on the tools, techniques, mechanisms and personnel used to conduct system maintenance.",
-            "NIST\r\n800-171": "3.7.2",
-            "NIST\r\n800-53": "MA-2\r\nMA-3\r\nMA-3(1)\r\nMA-3(2)",
-            "CERT\r\nRMM": "TM:SG5.SP2",
-            "ISO\r\n27002": "11.2.4\r\n11.2.5",
-            "NIST\r\nCSF": "PR.MA-1"
         },
         {
             "Domain": "Maintenance (MA)",
@@ -353,10 +287,6 @@
             "Capacity ID": "C021",
             "Practice Number": "MA.2.113",
             "Practice": "Require multifactor authentication to establish nonlocal maintenance sessions via external network connections and terminate such connections when nonlocal maintenance is complete.",
-            "NIST\r\n800-171": "3.7.5",
-            "NIST\r\n800-53": "MA-4",
-            "CERT\r\nRMM": "TM:SG4.SP1",
-            "NIST\r\nCSF": "PR.MA-2"
         },
         {
             "Domain": "Maintenance (MA)",
@@ -364,166 +294,97 @@
             "Capacity ID": "C021",
             "Practice Number": "MA.2.114",
             "Practice": "Supervise the maintenance activities of personnel without required access authorization.",
-            "NIST\r\n800-171": "3.7.6",
-            "NIST\r\n800-53": "MA-5",
-            "CERT\r\nRMM": "TM:SG5.SP2"
         },
         {
             "Domain": "Media Protection (MP)",
             "Capacity": "Identify and mark media",
             "Capacity ID": "C022",
             "Practice Number": "MP.2.119",
-            "Practice": "Protect (e.g., physically control and securely store) system media containing Federal Contract Information, both paper and digital.",
-            "NIST\r\n800-171": "3.8.1",
-            "NIST\r\n800-53": "MP-2\r\nMP-4\r\nMP-6",
-            "CERT\r\nRMM": "KIM:SG2.SP2",
-            "ISO\r\n27002": "8.2.3\r\n8.3.1\r\n8.3.2\r\n11.2.7\r\n11.2.9",
-            "NIST\r\nCSF": "PR.PT-2"
+            "Practice": "Protect (e.g., physically control and securely store) system media containing Federal Contract Information, both paper and digital."
         },
         {
             "Domain": "Media Protection (MP)",
             "Capacity": "Identify and mark media",
             "Capacity ID": "C022",
             "Practice Number": "MP.2.120",
-            "Practice": "Limit access to CUI on system media to authorized users.",
-            "NIST\r\n800-171": "3.8.2",
-            "NIST\r\n800-53": "MP-2\r\nMP-4\r\nMP-6",
-            "CERT\r\nRMM": "MON:SG2.SP4",
-            "ISO\r\n27002": "8.2.3\r\n8.3.1\r\n8.3.2\r\n11.2.7\r\n11.2.9",
-            "NIST\r\nCSF": "PR.PT-2",
-            "CIS v7.1": "14.6"
+            "Practice": "Limit access to CUI on system media to authorized users."
         },
         {
             "Domain": "Media Protection (MP)",
             "Capacity": "Identify and mark media",
             "Capacity ID": "C022",
             "Practice Number": "MP.2.121",
-            "Practice": "Control the use of removable media on system components.",
-            "NIST\r\n800-171": "3.8.7",
-            "NIST\r\n800-53": "MP-7",
-            "CERT\r\nRMM": "MON:SG2.SP4",
-            "ISO\r\n27002": "8.2.3\r\n8.3.1",
-            "NIST\r\nCSF": "PR.PT-2",
-            "CIS v7.1": "13.7\r\n13.8"
+            "Practice": "Control the use of removable media on system components."
         },
         {
             "Domain": "Media Protection (MP)",
             "Capacity": "Sanitize media",
             "Capacity ID": "C024",
             "Practice Number": "MP.1.118",
-            "Practice": "Sanitize or destroy information system media containing Federal Contract Information (FCI) before disposal or release for reuse.",
-            "FAR\r\n52.204-21": "(b)(1)(vii)",
-            "NIST\r\n800-171": "3.8.3",
-            "NIST\r\n800-53": "MP-2\r\nMP-4\r\nMP-6",
-            "CERT\r\nRMM": "KIM:SG4.SP3",
-            "ISO\r\n27002": "8.2.3\r\n8.3.1\r\n8.3.2\r\n11.2.7\r\n11.2.9",
-            "NIST\r\nCSF": "PR.DS-3"
+            "Practice": "Sanitize or destroy information system media containing Federal Contract Information (FCI) before disposal or release for reuse."
         },
         {
             "Domain": "Personnel Security (PS)",
             "Capacity": "Screen personnel",
             "Capacity ID": "C026",
             "Practice Number": "PS.2.127",
-            "Practice": "Screen individuals prior to authorizing access to organizational systems containing CUI.",
-            "NIST\r\n800-171": "3.9.1",
-            "NIST\r\n800-53": "PS-3\r\nPS-4\r\nPS-5",
-            "CERT\r\nRMM": "HRM:SG2.SP1",
-            "ISO\r\n27002": "7.1.1\r\n7.3.1\r\n8.1.4"
+            "Practice": "Screen individuals prior to authorizing access to organizational systems containing CUI."
         },
         {
             "Domain": "Personnel Security (PS)",
             "Capacity": "Protect federal contract information during personnel actions",
             "Capacity ID": "C027",
             "Practice Number": "PS.2.128",
-            "Practice": "Ensure that organizational systems containing CUI are protected during and after personnel actions such as terminations and transfers.",
-            "NIST\r\n800-171": "3.9.2",
-            "NIST\r\n800-53": "PS-3\r\nPS-4\r\nPS-5",
-            "CERT\r\nRMM": "HRM:SG4.SP2",
-            "ISO\r\n27002": "7.1.1\r\n7.3.1\r\n8.1.4",
-            "NIST\r\nCSF": "PR.AC-1"
+            "Practice": "Ensure that organizational systems containing CUI are protected during and after personnel actions such as terminations and transfers."
         },
         {
             "Domain": "Physical Protection (PE)",
             "Capacity": "Limit physical access",
             "Capacity ID": "C028",
             "Practice Number": "PE.1.131",
-            "Practice": "Limit physical access to organizational information systems, equipment and the respective operating environments to authorized individuals.",
-            "FAR\r\n52.204-21": "(b)(1)(viii)",
-            "NIST\r\n800-171": "3.10.1",
-            "NIST\r\n800-53": "PE-2\r\nPE-4\r\nPE-5\r\nPE-6",
-            "CERT\r\nRMM": "KIM:SG4.SP2",
-            "ISO\r\n27002": "11.1.2\r\n11.1.3\r\n11.2.3",
-            "NIST\r\nCSF": "PR.AC-2"
+            "Practice": "Limit physical access to organizational information systems, equipment and the respective operating environments to authorized individuals."
         },
         {
             "Domain": "Physical Protection (PE)",
             "Capacity": "Limit physical access",
             "Capacity ID": "C028",
             "Practice Number": "PE.1.132",
-            "Practice": "Escort visitors and monitor visitor activity.",
-            "FAR\r\n52.204-21": "(b)(1)(ix)",
-            "NIST\r\n800-171": "3.10.3",
-            "NIST\r\n800-53": "PE-3",
-            "CERT\r\nRMM": "AM:SG1.SP1",
-            "ISO\r\n27002": "11.1.1\r\n11.1.2\r\n11.1.3"
+            "Practice": "Escort visitors and monitor visitor activity."
         },
         {
             "Domain": "Physical Protection (PE)",
             "Capacity": "Limit physical access",
             "Capacity ID": "C028",
             "Practice Number": "PE.1.133",
-            "Practice": "Maintain audit logs of physical access.",
-            "FAR\r\n52.204-21": "(b)(1)(ix)",
-            "NIST\r\n800-171": "3.10.4",
-            "NIST\r\n800-53": "PE-3",
-            "ISO\r\n27002": "11.1.1\r\n11.1.2\r\n11.1.3"
+            "Practice": "Maintain audit logs of physical access."
         },
         {
             "Domain": "Physical Protection (PE)",
             "Capacity": "Limit physical access",
             "Capacity ID": "C028",
             "Practice Number": "PE.1.134",
-            "Practice": "Control and manage physical access devices.",
-            "FAR\r\n52.204-21": "(b)(1)(ix)",
-            "NIST\r\n800-171": "3.10.5",
-            "NIST\r\n800-53": "PE-3",
-            "CERT\r\nRMM": "KIM:SG4.SP2",
-            "ISO\r\n27002": "11.1.1\r\n11.1.2\r\n11.1.3"
+            "Practice": "Control and manage physical access devices."
         },
         {
             "Domain": "Physical Protection (PE)",
             "Capacity": "Limit physical access",
             "Capacity ID": "C028",
             "Practice Number": "PE.2.135",
-            "Practice": "Protect and monitor the physical facility and support infrastructure for organizational systems.",
-            "NIST\r\n800-171": "3.10.2",
-            "NIST\r\n800-53": "PE-2\r\nPE-4\r\nPE-5\r\nPE-6",
-            "CERT\r\nRMM": "KIM:SG4.SP2",
-            "ISO\r\n27002": "11.1.2\r\n11.1.3\r\n11.2.3",
-            "NIST\r\nCSF": "PR.AC-2"
+            "Practice": "Protect and monitor the physical facility and support infrastructure for organizational systems."
         },
         {
             "Domain": "Recovery (RE)",
             "Capacity": "Manage back-ups",
             "Capacity ID": "C029",
             "Practice Number": "RE.2.137",
-            "Practice": "Regularly perform and test data back-ups.",
-            "NIST\r\n800-53": "CP-9\r\nCP-9(1)",
-            "CERT\r\nRMM": "KIM:SG6.SP1",
-            "ISO\r\n27002": "12.3.1",
-            "NIST\r\nCSF": "PR.IP-4",
-            "CIS v7.1": "10.1\r\n10.3"
+            "Practice": "Regularly perform and test data back-ups."
         },
         {
             "Domain": "Recovery (RE)",
             "Capacity": "Manage back-ups",
             "Capacity ID": "C029",
             "Practice Number": "RE.2.138",
-            "Practice": "Protect the confidentiality of backup CUI at storage locations.",
-            "NIST\r\n800-171": "3.8.9",
-            "NIST\r\n800-53": "CP-9",
-            "CERT\r\nRMM": "MON:SG2.SP4",
-            "ISO\r\n27002": "12.3.1\r\n17.1.2\r\n18.1.3"
+            "Practice": "Protect the confidentiality of backup CUI at storage locations."
         },
         {
             "Domain": "Risk Management (RM)",
@@ -531,24 +392,14 @@
             "Capacity ID": "C031",
             "Practice Number": "RM.2.141",
             "Practice": "Periodically assess the risk to organizational operations (including mission, functions, image or reputation), organizational assets and individuals, resulting from the operation of organizational systems and the associated processing, storage or transmission of CUI.",
-            "NIST\r\n800-171": "3.11.1",
-            "NIST\r\n800-53": "RA-3",
-            "CERT\r\nRMM": "RISK:SG4",
-            "ISO\r\n27002": "12.6.1",
-            "NIST\r\nCSF": " ID.RA-1\r\nID.RA-4\r\nDE.AE-4\r\nRS.MI-3"
+
         },
         {
             "Domain": "Risk Management (RM)",
             "Capacity": "Identify and evaluate risk",
             "Capacity ID": "C031",
             "Practice Number": "RM.2.142",
-            "Practice": "Scan for vulnerabilities in organizational systems and applications periodically and when new vulnerabilities affecting those systems and applications are identified.",
-            "NIST\r\n800-171": "3.11.2",
-            "NIST\r\n800-53": "RA-5\r\nRA-5(5)",
-            "CERT\r\nRMM": "VAR:SG2.SP2",
-            "ISO\r\n27002": "12.6.1",
-            "NIST\r\nCSF": " ID.RA-1",
-            "CIS v7.1": "3.1\r\n3.2"
+            "Practice": "Scan for vulnerabilities in organizational systems and applications periodically and when new vulnerabilities affecting those systems and applications are identified."
         },
         {
             "Domain": "Risk Management (RM)",
@@ -556,23 +407,13 @@
             "Capacity ID": "C032",
             "Practice Number": "RM.2.143",
             "Practice": "Remediate vulnerabilities in accordance with risk assessments.",
-            "NIST\r\n800-171": "3.11.3",
-            "NIST\r\n800-53": "RA-5",
-            "CERT\r\nRMM": "VAR:SG3.SP1",
-            "ISO\r\n27002": "12.6.1",
-            "NIST\r\nCSF": "RS.MI-3",
-            "CIS v7.1": "3.7"
         },
         {
             "Domain": "Security Assessment (CA)",
             "Capacity": "Develop and manage a system security plan",
             "Capacity ID": "C034",
             "Practice Number": "CA.2.157",
-            "Practice": "Develop, document and periodically update System Security Plans (SSPs) that describe system boundaries, system environments of operation, how security requirements are implemented and the relationships with or connections to other systems.",
-            "NIST\r\n800-171": "3.12.4",
-            "NIST\r\n800-53": "CA-2\r\nCA-5\r\nCA-7\r\nPL-2",
-            "ISO\r\n27002": "6.1.2\r\n14.2.8\r\n18.2.2\r\n18.2.3",
-            "NIST\r\nCSF": "PR.IP-7"
+            "Practice": "Develop, document and periodically update System Security Plans (SSPs) that describe system boundaries, system environments of operation, how security requirements are implemented and the relationships with or connections to other systems."
         },
         {
             "Domain": "Security Assessment (CA)",
@@ -580,10 +421,6 @@
             "Capacity ID": "C035",
             "Practice Number": "CA.2.158",
             "Practice": "Periodically assess the security controls in organizational systems to determine if the controls are effective in their application.",
-            "NIST\r\n800-171": "3.12.1",
-            "NIST\r\n800-53": "CA-2\r\nCA-5\r\nCA-7\r\nPL-2",
-            "ISO\r\n27002": "6.1.2\r\n14.2.8\r\n18.2.2\r\n18.2.3",
-            "NIST\r\nCSF": "DE.DP-3"
         },
         {
             "Domain": "Security Assessment (CA)",
@@ -591,10 +428,6 @@
             "Capacity ID": "C035",
             "Practice Number": "CA.2.159",
             "Practice": "Develop and implement plans of action (e.g., POA&M) designed to correct deficiencies and reduce or eliminate vulnerabilities in organizational systems.",
-            "NIST\r\n800-171": "3.12.2",
-            "NIST\r\n800-53": "CA-2\r\nCA-5\r\nCA-7\r\nPL-2",
-            "CERT\r\nRMM": "RISK:SG5.SP1",
-            "ISO\r\n27002": "6.1.2\r\n14.2.8\r\n18.2.2\r\n18.2.3"
         },
         {
             "Domain": "System & Communications Protection (SC)",
@@ -602,10 +435,7 @@
             "Capacity ID": "C038",
             "Practice Number": "SC.2.178",
             "Practice": "Prohibit remote activation of collaborative computing devices and provide indication of devices in use to users present at the device.",
-            "NIST\r\n800-171": "3.13.12",
-            "NIST\r\n800-53": "SC-15",
-            "ISO\r\n27002": "13.2.1",
-            "NIST\r\nCSF": "PR.AC-3"
+
         },
         {
             "Domain": "System & Communications Protection (SC)",
@@ -621,11 +451,7 @@
             "Capacity ID": "C039",
             "Practice Number": "SC.1.175",
             "Practice": "Monitor, control and protect organizational communications (e.g., information transmitted or received by organizational information systems) at the external boundaries and key internal boundaries of the information systems.",
-            "FAR\r\n52.204-21": "(b)(1)(x)",
-            "NIST\r\n800-171": "3.13.1",
-            "NIST\r\n800-53": "SC-7\r\nSA-8",
-            "ISO\r\n27002": "13.1.1\r\n13.1.3\r\n13.2.1\r\n14.1.3\r\n14.2.5",
-            "NIST\r\nCSF": "PR.PT-4"
+
         },
         {
             "Domain": "System & Communications Protection (SC)",
@@ -633,12 +459,7 @@
             "Capacity ID": "C039",
             "Practice Number": "SC.1.176",
             "Practice": "Implement subnetworks for publicly accessible system components that are physically or logically separated from internal networks.",
-            "FAR\r\n52.204-21": "(b)(1)(xi)",
-            "NIST\r\n800-171": "3.13.5",
-            "NIST\r\n800-53": "SC-7",
-            "ISO\r\n27002": "13.1.1\r\n13.1.3\r\n13.2.1\r\n14.1.3",
-            "NIST\r\nCSF": "PR.AC-5",
-            "CIS v7.1": "14.1"
+
         },
         {
             "Domain": "System & Information Integrity (SI)",
@@ -646,12 +467,7 @@
             "Capacity ID": "C040",
             "Practice Number": "SI.1.210",
             "Practice": "Identify, report and correct information and information system flaws in a timely manner.",
-            "FAR\r\n52.204-21": "(b)(1)(xii)",
-            "NIST\r\n800-171": "3.14.1",
-            "NIST\r\n800-53": "SI-2\r\nSI-3\r\nSI-5",
-            "CERT\r\nRMM": "VAR:SG2.SP2",
-            "ISO\r\n27002": "6.1.4\r\n12.2.1\r\n12.6.1\r\n14.2.2\r\n14.2.3\r\n16.1.3",
-            "NIST\r\nCSF": "RS.CO-2\r\nRS.MI-3"
+
         },
         {
             "Domain": "System & Information Integrity (SI)",
@@ -659,12 +475,7 @@
             "Capacity ID": "C040",
             "Practice Number": "SI.2.214",
             "Practice": "Monitor system security alerts and advisories and take action in response.",
-            "NIST\r\n800-171": "3.14.3",
-            "NIST\r\n800-53": "SI-2\r\nSI-3\r\nSI-5",
-            "CERT\r\nRMM": "IMC:SG2.SP1",
-            "ISO\r\n27002": "6.1.4\r\n12.2.1\r\n12.6.1\r\n14.2.2\r\n14.2.3\r\n16.1.3",
-            "NIST\r\nCSF": "RS.AN-5",
-            "CIS v7.1": "6.6\r\n6.6"
+
         },
         {
             "Domain": "System & Information Integrity (SI)",
@@ -672,13 +483,7 @@
             "Capacity ID": "C041",
             "Practice Number": "SI.1.211",
             "Practice": "Provide protection from malicious code at appropriate locations within organizational information systems.",
-            "FAR\r\n52.204-21": "(b)(1)(xiii)",
-            "NIST\r\n800-171": "3.14.2",
-            "NIST\r\n800-53": "SI-2\r\nSI-3\r\nSI-5",
-            "CERT\r\nRMM": "VAR:SG3.SP1",
-            "ISO\r\n27002": "6.1.4\r\n12.2.1\r\n12.6.1\r\n14.2.2\r\n14.2.3\r\n16.1.3",
-            "NIST\r\nCSF": "DE.CM-4",
-            "CIS v7.1": "8.1"
+
         },
         {
             "Domain": "System & Information Integrity (SI)",
@@ -686,13 +491,7 @@
             "Capacity ID": "C041",
             "Practice Number": "SI.1.212",
             "Practice": "Update malicious code protection mechanisms when new releases are available.",
-            "FAR\r\n52.204-21": "(b)(1)(xiv)",
-            "NIST\r\n800-171": "3.14.4",
-            "NIST\r\n800-53": "SI-3",
-            "CERT\r\nRMM": "VAR:SG3.SP1",
-            "ISO\r\n27002": "12.2.1",
-            "NIST\r\nCSF": "DE.CM-4",
-            "CIS v7.1": "8.2"
+
         },
         {
             "Domain": "System & Information Integrity (SI)",
@@ -700,13 +499,7 @@
             "Capacity ID": "C041",
             "Practice Number": "SI.1.213",
             "Practice": "Perform periodic scans of the information system and real-time scans of files from external sources as files are downloaded, opened or executed.",
-            "FAR\r\n52.204-21": "(b)(1)(xv)",
-            "NIST\r\n800-171": "3.14.5",
-            "NIST\r\n800-53": "SI-3",
-            "CERT\r\nRMM": "VAR:SG3.SP1",
-            "ISO\r\n27002": "12.2.1",
-            "NIST\r\nCSF": "DE.CM-4",
-            "CIS v7.1": "8.4\r\n8.7"
+
         },
         {
             "Domain": "System & Information Integrity (SI)",
@@ -714,11 +507,6 @@
             "Capacity ID": "C042",
             "Practice Number": "SI.2.216",
             "Practice": "Monitor organizational systems, including inbound and outbound communications traffic, to detect attacks and indicators of potential attacks.",
-            "NIST\r\n800-171": "3.14.6",
-            "NIST\r\n800-53": "AU-2\r\nAU-2(3)\r\nAU-6\r\nSI-4\r\nSI-4(4)",
-            "CERT\r\nRMM": "MON:SG1.SP3",
-            "NIST\r\nCSF": "DE.CM-1",
-            "CIS v7.1": "12.6"
         },
         {
             "Domain": "System & Information Integrity (SI)",
@@ -726,10 +514,6 @@
             "Capacity ID": "C042",
             "Practice Number": "SI.2.217",
             "Practice": "Identify unauthorized use of organizational systems.",
-            "NIST\r\n800-171": "3.14.7",
-            "NIST\r\n800-53": "SI-4",
-            "CERT\r\nRMM": "MON:SG1.SP3",
-            "NIST\r\nCSF": "DE.CM-1\r\nDE.CM-7"
         }
     ]
 }
