@@ -492,7 +492,8 @@
             "Practice Number": "SI.1.212",
             "Practice": "Update malicious code protection mechanisms when new releases are available.",
 
-        },
+        }, 
+        
         {
             "Domain": "System & Information Integrity (SI)",
             "Capacity": "Identify malicious content",
