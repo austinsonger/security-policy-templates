@@ -6,13 +6,6 @@
             "Capacity ID": "C001",
             "Practice Number": "AC.1.001",
             "Practice": "Limit information system access to authorized users, processes acting on behalf of authorized users or devices (including other information systems).",
-            "FAR\r\n52.204-21": "(b)(1)(i)",
-            "NIST\r\n800-171": "3.1.1",
-            "NIST\r\n800-53": "AC-2\r\nAC-3\r\nAC-17",
-            "CERT\r\nRMM": "SG4.SP1",
-            "ISO\r\n27002": "6.2.1\r\n6.2.2\r\n9.1.2\r\n9.2.1\r\n9.2.2\r\n9.2.3\r\n9.2.5\r\n9.2.6\r\n9.4.1\r\n9.4.4\r\n9.4.5\r\n13.1.1\r\n13.2.1\r\n14.1.2\r\n14.1.3\r\n18.1.3",
-            "NIST\r\nCSF": "PR.AC-1\r\nPR.AC-3\r\nPR.AC-4\r\nPR.AC-6\r\nPR.PT-3\r\nPR.PT-4",
-            "CIS v7.1": "1.4\r\n1.6\r\n5.1\r\n14.6\r\n15.10\r\n16.8\r\n16.9\r\n16.11"
         },
         {
             "Domain": "Access Control (AC)",
@@ -20,9 +13,6 @@
             "Capacity ID": "C001",
             "Practice Number": "AC.2.005",
             "Practice": "Provide privacy and security notices consistent with applicable Controlled Unclassified Information (CUI) rules.",
-            "NIST\r\n800-171": "3.1.9",
-            "NIST\r\n800-53": "AC-8",
-            "ISO\r\n27002": "9.4.2"
         },
         {
             "Domain": "Access Control (AC)",
@@ -30,10 +20,6 @@
             "Capacity ID": "C001",
             "Practice Number": "AC.2.006",
             "Practice": "Limit use of portable storage devices on external systems.",
-            "NIST\r\n800-171": "3.1.21",
-            "NIST\r\n800-53": "AC-20(2)",
-            "NIST\r\nCSF": "ID.AM-4\r\nPR.PT-2",
-            "CIS v7.1": "13.7\r\n13.8\r\n13.9"
         },
         {
             "Domain": "Access Control (AC)",
@@ -41,13 +27,6 @@
             "Capacity ID": "C002",
             "Practice Number": "AC.1.002",
             "Practice": "Limit information system access to the types of transactions and functions that authorized users are permitted to execute.",
-            "FAR\r\n52.204-21": "(b)(1)(ii)",
-            "NIST\r\n800-171": "3.1.2",
-            "NIST\r\n800-53": "AC-2\r\nAC-3\r\nAC-17",
-            "CERT\r\nRMM": "TM:SG4.SP1",
-            "ISO\r\n27002": "6.2.1\r\n6.2.2\r\n9.1.2\r\n9.2.1\r\n9.2.2\r\n9.2.3\r\n9.2.5\r\n9.2.6\r\n9.4.1\r\n9.4.4\r\n9.4.5\r\n13.1.1\r\n13.2.1\r\n14.1.2\r\n14.1.3\r\n18.1.3",
-            "NIST\r\nCSF": " PR.AC-1\r\nPR.AC-3\r\nPR.AC-4\r\nPR.AC-6\r\nPR.PT-3\r\nPR.PT-4",
-            "CIS v7.1": "1.4\r\n1.6\r\n5.1\r\n8.5\r\n14.6\r\n15.10\r\n16.8\r\n16.9\r\n16.11"
         },
         {
             "Domain": "Access Control (AC)",
@@ -55,12 +34,6 @@
             "Capacity ID": "C002",
             "Practice Number": "AC.2.007",
             "Practice": "Employ the principle of least privilege, including for specific security functions and privileged accounts.",
-            "NIST\r\n800-171": "3.1.5",
-            "NIST\r\n800-53": "AC-6\r\nAC-6(1)\r\nAC-6(5)",
-            "CERT\r\nRMM": "KIM:SG4.SP1",
-            "ISO\r\n27002": "9.1.2\r\n9.2.3\r\n9.4.4\r\n9.4.5",
-            "NIST\r\nCSF": "PR.AC-4",
-            "CIS v7.1": "14.6"
         },
         {
             "Domain": "Access Control (AC)",
@@ -68,9 +41,6 @@
             "Capacity ID": "C002",
             "Practice Number": "AC.2.008",
             "Practice": "Use non-privileged accounts or roles when accessing nonsecurity functions.",
-            "NIST\r\n800-171": "3.1.6",
-            "NIST\r\n800-53": "AC-6(2)",
-            "CIS v7.1": "4.3\r\n4.6"
         },
         {
             "Domain": "Access Control (AC)",
@@ -78,10 +48,6 @@
             "Capacity ID": "C002",
             "Practice Number": "AC.2.009",
             "Practice": "Limit unsuccessful logon attempts.",
-            "NIST\r\n800-171": "3.1.8",
-            "NIST\r\n800-53": "AC-7",
-            "ISO\r\n27002": "9.4.2",
-            "NIST\r\nCSF": "PR.AC-7"
         },
         {
             "Domain": "Access Control (AC)",
@@ -89,10 +55,7 @@
             "Capacity ID": "C002",
             "Practice Number": "AC.2.010",
             "Practice": "Use session lock with pattern-hiding displays to prevent access and viewing of data after a period of inactivity.",
-            "NIST\r\n800-171": "3.1.10",
-            "NIST\r\n800-53": "AC-11\r\nAC-11(1)",
-            "ISO\r\n27002": "11.2.8\r\n11.2.9",
-            "CIS v7.1": "16.11"
+
         },
         {
             "Domain": "Access Control (AC)",
@@ -100,12 +63,6 @@
             "Capacity ID": "C002",
             "Practice Number": "AC.2.011",
             "Practice": "Authorize wireless access prior to allowing such connections.",
-            "NIST\r\n800-171": "3.1.16",
-            "NIST\r\n800-53": "AC-18",
-            "CERT\r\nRMM": "TM:SG2.SP2",
-            "ISO\r\n27002": "6.2.1\r\n13.1.1\r\n13.2.1",
-            "NIST\r\nCSF": "PR.PT-4",
-            "CIS v7.1": "15.1\r\n15.10"
         },
         {
             "Domain": "Access Control (AC)",
@@ -113,11 +70,6 @@
             "Capacity ID": "C002",
             "Practice Number": "AC.3.012",
             "Practice": "Protect wireless access using authentication and encryption.",
-            "NIST\r\n800-171": "3.1.17",
-            "NIST\r\n800-53": "AC-18(1)",
-            "CERT\r\nRMM": "KIM:SG4.SP1",
-            "NIST\r\nCSF": "PR.PT-4",
-            "CIS v7.1": "15.7\r\n15.8"
         },
         {
             "Domain": "Access Control (AC)",
@@ -125,10 +77,7 @@
             "Capacity ID": "C002",
             "Practice Number": "AC.3.017",
             "Practice": "Separate the duties of individuals to reduce the risk of malevolent activity without collusion.",
-            "NIST\r\n800-171": "3.1.4",
-            "NIST\r\n800-53": "AC-5",
-            "ISO\r\n27002": "6.1.2",
-            "NIST\r\nCSF": "PR.AC-4"
+
         },
         {
             "Domain": "Access Control (AC)",
@@ -136,10 +85,6 @@
             "Capacity ID": "C002",
             "Practice Number": "AC.3.018",
             "Practice": "Prevent non-privileged users from executing privileged functions and capture the execution of such functions in audit logs.",
-            "NIST\r\n800-171": "3.1.7",
-            "NIST\r\n800-53": "AC-6(9)\r\nAC-6(10)",
-            "CERT\r\nRMM": "KIM:SG4.SP1",
-            "NIST\r\nCSF": "PR.AC-4"
         },
         {
             "Domain": "Access Control (AC)",
@@ -147,9 +92,7 @@
             "Capacity ID": "C002",
             "Practice Number": "AC.3.019",
             "Practice": "Terminate (automatically) user sessions after a defined condition.",
-            "NIST\r\n800-171": "3.1.11",
-            "NIST\r\n800-53": "AC-12",
-            "CIS v7.1": "16.7\r\n16.11"
+
         },
         {
             "Domain": "Access Control (AC)",
